@@ -53,6 +53,3 @@ The project focuses on transforming raw data into clear, actionable insights to 
 
 ---
 
-## 👨‍🏫 Supervised By
-- Mazen Mohamed  
-- Merna Ahmed
